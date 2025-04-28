@@ -13,9 +13,4 @@
 - **Backend**: Node.js, Express.js
 - **Database**: PostgreSQL
 
-## Installation
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/HireTracker.git
-cd HireTracker
